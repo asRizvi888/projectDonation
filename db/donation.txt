@@ -1,0 +1,5 @@
+Contactless_Thermometer        CT              Japan           2               8.000000       
+Hand_Sanitizers                HS              USA             2               5.000000       
+Face_Mask                      FM              China           120             17.500000      
+Surgical_Mask                  SM              China           2               26.000000      
+Oxygen_Mask                    OM              Saudi_Arabia    2               7.000000       

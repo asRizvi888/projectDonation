@@ -1,0 +1,11 @@
+Face_Mask                      FM              50.000000      
+Face_Mask                      FM              20.000000      
+Face_Mask                      FM              20.000000      
+Hand_Sanitizer                 HS              10.000000      
+Surgical_Mask                  SM              7.000000       
+Surgical_Mask                  SM              5.000000       
+Contactless_Thermometer        CT              3.800000       
+Hand_Sanitizers                HS              3.500000       
+Oxygen_Mask                    OM              2.000000       
+Contactless_Thermometer        CT              2.000000       
+Face_Mask                      FM              0.500000       

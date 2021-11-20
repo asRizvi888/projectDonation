@@ -1,0 +1,43 @@
+#include <stdio.h>
+#include "../headers/method.h"
+#include "../headers/constant.h"
+
+object item;
+
+void recieve () {
+	FILE *fp;
+	fp = fopen("../db/donation.txt", "r+");
+
+
+	
+	fclose(fp);
+}
+
+void distribute () {
+
+}
+
+void update () {
+	printf("Please select an option:\n");
+	printf("1. Recieve donation\n");
+	printf("2. Distribute donation\n> ");
+
+	int k;
+	scanf("%d",&k);
+
+	switch (k) {
+		case 1:
+			printf("\"Recieve donation\" selected!\n");
+			break;
+		
+		case 2:
+			printf("\"Distribute donation\" selected!\n");
+			break;
+		
+		default:
+			clear();
+			printf("Invalid option!\n");
+			update();
+			break;
+	}
+}
